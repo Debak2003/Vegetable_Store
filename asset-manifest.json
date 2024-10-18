@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Vegetable_Store/static/css/main.083a1660.css",
+    "main.js": "/Vegetable_Store/static/js/main.6a407cba.js",
+    "static/js/453.ce285ee6.chunk.js": "/Vegetable_Store/static/js/453.ce285ee6.chunk.js",
+    "static/media/garden.jpg": "/Vegetable_Store/static/media/garden.ec323cbe7783b2a6a524.jpg",
+    "static/media/veg1bg.png": "/Vegetable_Store/static/media/veg1bg.45689f80a4ee0b80c613.png",
+    "static/media/pro3.png": "/Vegetable_Store/static/media/pro3.2921384a23f8e0660385.png",
+    "static/media/beetroot.webp": "/Vegetable_Store/static/media/beetroot.00ba92c005a505fc1f72.webp",
+    "static/media/cucumber.jpg": "/Vegetable_Store/static/media/cucumber.f08f0e2291ea0f83b29f.jpg",
+    "static/media/basket.avif": "/Vegetable_Store/static/media/basket.9c01e8a3db7ee4cb7861.avif",
+    "static/media/delivery.png": "/Vegetable_Store/static/media/delivery.08937654505e252a9b4c.png",
+    "static/media/pumpkin.jpg": "/Vegetable_Store/static/media/pumpkin.0cf107308a16cdb21d4a.jpg",
+    "static/media/brinjal.jpeg": "/Vegetable_Store/static/media/brinjal.aef269b94c0ae02431f8.jpeg",
+    "static/media/greenchilly.jpg": "/Vegetable_Store/static/media/greenchilly.9d55923a497c69dbdc1a.jpg",
+    "static/media/cauliflower.webp": "/Vegetable_Store/static/media/cauliflower.e3edf3c6b43b8fe18545.webp",
+    "static/media/onion.jpg": "/Vegetable_Store/static/media/onion.2bd22a40703c7e63707b.jpg",
+    "static/media/lady.webp": "/Vegetable_Store/static/media/lady.ae5ae929753ef1bca617.webp",
+    "static/media/Gooseberry.webp": "/Vegetable_Store/static/media/Gooseberry.2290ee3eda9805421ca2.webp",
+    "static/media/capsicum.jpeg": "/Vegetable_Store/static/media/capsicum.1194a0d940719f809e81.jpeg",
+    "static/media/bittergourd.webp": "/Vegetable_Store/static/media/bittergourd.4af6e6b87298f781ac25.webp",
+    "static/media/redchilly.jpg": "/Vegetable_Store/static/media/redchilly.d7a4726032667e8ca567.jpg",
+    "static/media/carrot.jpg": "/Vegetable_Store/static/media/carrot.0b55b8099c1ad4abdc80.jpg",
+    "static/media/tomatto.jpg": "/Vegetable_Store/static/media/tomatto.a091e7d317a94b0752ae.jpg",
+    "static/media/corn.jpg": "/Vegetable_Store/static/media/corn.4eaa528921ca781df238.jpg",
+    "static/media/drumstick.webp": "/Vegetable_Store/static/media/drumstick.74e30833a8e146ae3f78.webp",
+    "index.html": "/Vegetable_Store/index.html",
+    "main.083a1660.css.map": "/Vegetable_Store/static/css/main.083a1660.css.map",
+    "main.6a407cba.js.map": "/Vegetable_Store/static/js/main.6a407cba.js.map",
+    "453.ce285ee6.chunk.js.map": "/Vegetable_Store/static/js/453.ce285ee6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.083a1660.css",
+    "static/js/main.6a407cba.js"
+  ]
+}
