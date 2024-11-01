@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import { Button, Card, Container, Row, Col, ListGroup } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
+import './Products.css';
 
 // Import images
 import carrotImage from '../components/image/carrot.jpg';
@@ -82,14 +83,18 @@ const VegetableProductPage = () => {
   }
 
   return (
-    <Container>
-      <h1 className="my-4" style={{fontFamily:'Playfair Display'}}>Vegetable Products</h1>
+  
+
+    <Container id='products'>
+      <h1  className="my-4" style={{fontFamily:'Playfair Display'}}>Available Vegetable Products:</h1>
       <hr />
       <Row>
         {vegetables.map(veg => (
           <Col key={veg.id} md={3} className="mb-4">
             <Card>
-              <Card.Img variant="top" src={veg.image} alt={veg.name} />
+              <div className='zoom-container'>
+              <Card.Img variant="top" src={veg.image} alt={veg.name} className="zoom-image" />
+              </div>
               <Card.Body>
                 <Card.Title>{veg.name}</Card.Title>
                 <Card.Text>${veg.price.toFixed(2)} (~₹{(veg.price * conversionRate).toFixed(2)})</Card.Text>
@@ -101,7 +106,7 @@ const VegetableProductPage = () => {
       </Row>
       <hr />
 
-      <h2 className="my-4 text-center" style={{fontFamily:'Playfair Display'}}>Shopping Cart</h2>
+      <h2 className="my-4 text-center" id='cart' style={{fontFamily:'Playfair Display'}}>Shopping Cart</h2>
       <div className='text-center'>
       <ListGroup>
         {cart.map(item => (

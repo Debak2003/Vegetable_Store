@@ -6,7 +6,7 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 
 const Footer = () => {
   return (
-    <footer className="footer bg-light">
+    <footer id='footer' className="footer bg-light">
       <Container>
         <Row className="py-4">
           <Col md={3} className="mb-3">

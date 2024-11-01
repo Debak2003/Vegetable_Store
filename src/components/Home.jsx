@@ -3,8 +3,16 @@ import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
 import vegtable from '../components/image/veg1bg.png'
 const Home = () => {
+
+  // const navigate = useNavigate();
+  // const handleShopClick = () => {
+  //   navigate('/products');
+  //   window.scrollTo({ top: 0, behavior: 'smooth' }); // Scroll to top
+  // };
+
+
   return (
-    <div className="container col-xxl-8 px-4 py-5">
+    <div id='home' className="container col-xxl-8 px-4 py-5">
     <div className="row flex-lg-row-reverse align-items-center g-5 py-5">
       <div className="col-10 col-sm-8 col-lg-6">
         <img src={vegtable} className="d-block mx-lg-auto img-fluid" alt="Bootstrap Themes" width="700" height="500" loading="lazy"/>
@@ -16,7 +24,11 @@ const Home = () => {
         
         <p className="lead">Free Delivery</p>
         <div className="d-grid gap-2 d-md-flex justify-content-md-start">
-          <button type="button" className="btn btn-success btn-lg px-4 me-md-2">Shop your Veg</button>
+        <button type="button" class="btn btn-success">
+        <a href='#products' style={{color:'white',textDecoration:'none'}}>
+          Shop your Veg
+        </a>
+        </button>
         </div>
       </div>
     </div>
