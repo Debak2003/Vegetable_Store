@@ -4,12 +4,6 @@ import 'bootstrap/dist/js/bootstrap.min.js';
 import vegtable from '../components/image/veg1bg.png'
 const Home = () => {
 
-  // const navigate = useNavigate();
-  // const handleShopClick = () => {
-  //   navigate('/products');
-  //   window.scrollTo({ top: 0, behavior: 'smooth' }); // Scroll to top
-  // };
-
 
   return (
     <div id='home' className="container col-xxl-8 px-4 py-5">
