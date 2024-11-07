@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Vegetable_Store/static/css/main.083a1660.css",
-    "main.js": "/Vegetable_Store/static/js/main.6a407cba.js",
+    "main.css": "/Vegetable_Store/static/css/main.e123c444.css",
+    "main.js": "/Vegetable_Store/static/js/main.365eb639.js",
     "static/js/453.ce285ee6.chunk.js": "/Vegetable_Store/static/js/453.ce285ee6.chunk.js",
     "static/media/garden.jpg": "/Vegetable_Store/static/media/garden.ec323cbe7783b2a6a524.jpg",
     "static/media/veg1bg.png": "/Vegetable_Store/static/media/veg1bg.45689f80a4ee0b80c613.png",
@@ -25,12 +25,12 @@
     "static/media/corn.jpg": "/Vegetable_Store/static/media/corn.4eaa528921ca781df238.jpg",
     "static/media/drumstick.webp": "/Vegetable_Store/static/media/drumstick.74e30833a8e146ae3f78.webp",
     "index.html": "/Vegetable_Store/index.html",
-    "main.083a1660.css.map": "/Vegetable_Store/static/css/main.083a1660.css.map",
-    "main.6a407cba.js.map": "/Vegetable_Store/static/js/main.6a407cba.js.map",
+    "main.e123c444.css.map": "/Vegetable_Store/static/css/main.e123c444.css.map",
+    "main.365eb639.js.map": "/Vegetable_Store/static/js/main.365eb639.js.map",
     "453.ce285ee6.chunk.js.map": "/Vegetable_Store/static/js/453.ce285ee6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.083a1660.css",
-    "static/js/main.6a407cba.js"
+    "static/css/main.e123c444.css",
+    "static/js/main.365eb639.js"
   ]
 }
